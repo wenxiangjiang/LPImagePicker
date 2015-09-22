@@ -1,2 +1,4 @@
 # LPImagePicker
-This is for my first repository.
+This is my first repository.
+
+I will begin to use github!
